@@ -9,4 +9,4 @@ int d2 = 5555;
 int a3 = 5;
 int b3 = 55;
 int c3 = 555;
-int d3 = 5555;
+//delete line 12 branch master. conflict with commit 3
