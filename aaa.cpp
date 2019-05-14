@@ -1,4 +1,4 @@
-int a = 5;
+//delete line 1 branch second. conflict with commit 1
 int b = 55;
 int c = 555;
 int d = 5555;
