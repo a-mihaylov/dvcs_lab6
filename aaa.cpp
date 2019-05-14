@@ -1,5 +1,5 @@
 int a = 5;
-int b = 55;
+//delete line 2 branch first. conflict with commit 1
 int c = 555;
 int d = 5555;
 int a2 = 5;
