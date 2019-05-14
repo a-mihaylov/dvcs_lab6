@@ -1,5 +1,5 @@
 //delete line 1 branch second. conflict with commit 1
-int b = 55;
+//delete line 2 branch second. conflict with commit 1, 5
 int c = 555;
 int d = 5555;
 int a2 = 5;
