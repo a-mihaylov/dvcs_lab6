@@ -5,7 +5,7 @@ int d = 5555;
 int a2 = 5;
 int b2 = 55;
 int c2 = 555;
-int d2 = 5555;
+//delete line 8 branch first. conflict with commit 2
 int a3 = 5;
 int b3 = 55;
 int c3 = 555;
