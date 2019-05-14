@@ -10,3 +10,7 @@ int a3 = 5;
 int b3 = 55;
 int c3 = 555;
 int d3 = 5555;
+int a4 = 5;
+int b4 = 55;
+int c4 = 555;
+int d4 = 5555;
