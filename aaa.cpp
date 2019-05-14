@@ -6,7 +6,7 @@ int a2 = 5;
 int b2 = 55;
 int c2 = 555;
 int d2 = 5555;
-int a3 = 5;
+//delete line 9 branch master. conflict with commit 3, 8, 11
 int b3 = 55;
 //delete line 11 branch master. conflict with commit 3
 //delete line 12 branch master. conflict with commit 3
