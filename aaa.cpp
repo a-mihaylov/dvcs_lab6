@@ -1,7 +1,7 @@
 int a = 5;
 int b = 55;
 int c = 555;
-int d = 5555;
+//delete line 4 branch third. conflict with commit 1
 int a2 = 5;
 int b2 = 55;
 int c2 = 555;
